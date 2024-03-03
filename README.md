@@ -129,33 +129,75 @@ print("\nLenght of X_test ",len(X_test))
 
 ### DATA CHECKING:
 
-![DC](https://github.com/SivaChandranR07/Ex-1-NN/assets/113497395/4a9861dd-c08c-4c08-9218-df9d4e89c495)
+![307383905-4a9861dd-c08c-4c08-9218-df9d4e89c495](https://github.com/imthiyas19/Ex-1-NN/assets/120353416/658860ff-5e50-43ae-a213-fbbc683bc96e)
 
 
 ### MISSING DATA:
+![307383972-6260c60c-1bfc-4806-b778-b63481df25b1](https://github.com/imthiyas19/Ex-1-NN/assets/120353416/f92be089-f015-44f3-819a-38d8c8fb3ce1)
 
-![MD](https://github.com/SivaChandranR07/Ex-1-NN/assets/113497395/6260c60c-1bfc-4806-b778-b63481df25b1)
+
 
 ### DUPLICATES IDENTIFICATION:
-![DI](https://github.com/SivaChandranR07/Ex-1-NN/assets/113497395/1c6dadd3-fc7d-414e-8979-74363928147e)
+
+![307383972-6260c60c-1bfc-4806-b778-b63481df25b1](https://github.com/imthiyas19/Ex-1-NN/assets/120353416/8c16acd1-cded-4255-a65c-ec1edf09a8e2)
+
+
 
 ### VALUE OF Y:
-![VY](https://github.com/SivaChandranR07/Ex-1-NN/assets/113497395/89fe00c2-51f7-4fb9-944c-298329b291df)
+
+![307384064-89fe00c2-51f7-4fb9-944c-298329b291df](https://github.com/imthiyas19/Ex-1-NN/assets/120353416/35cfd69b-9fa2-463a-9e5a-6814f30eccd8)
+
+
+
+
 
 ### OUTLIERS:
-![outliers](https://github.com/SivaChandranR07/Ex-1-NN/assets/113497395/bb71d1ce-305d-4389-8c55-4d372cf89c07)
+
+
+
+![307384108-bb71d1ce-305d-4389-8c55-4d372cf89c07](https://github.com/imthiyas19/Ex-1-NN/assets/120353416/8c2dc86f-2e97-42c2-9916-09535721e042)
+
+
+
 
 ### CHECKING DATASET AFTER DROPPING STRING VALUES DATA FROM DATASET:
-![CD](https://github.com/SivaChandranR07/Ex-1-NN/assets/113497395/6978a892-4d84-45f7-a61f-d4da24af6537)
+
+
+
+
+
+![307384108-bb71d1ce-305d-4389-8c55-4d372cf89c07](https://github.com/imthiyas19/Ex-1-NN/assets/120353416/c092b3f0-37cb-4a16-938d-57bd409d2eb5)
+
+
+
+
 
 ### NORMALIZE THE DATASET:
-![ND](https://github.com/SivaChandranR07/Ex-1-NN/assets/113497395/dd09c337-092e-44c9-9c06-3a49a265ce3b)
+
+
+
+
+
+
+![307384215-dd09c337-092e-44c9-9c06-3a49a265ce3b](https://github.com/imthiyas19/Ex-1-NN/assets/120353416/214475f2-6c08-4012-807c-2b68f4351f17)
+
 
 ### SPLIT THE DATASET:
-![SD](https://github.com/SivaChandranR07/Ex-1-NN/assets/113497395/ef5e94d1-14f4-4841-9e05-94564d0a3c22)
+
+![307384275-ef5e94d1-14f4-4841-9e05-94564d0a3c22](https://github.com/imthiyas19/Ex-1-NN/assets/120353416/2d50b8fa-adce-40d4-9ed5-aac28c3d3768)
+
+
+
 
 ### TRAINING AND TESTING MODEL:
-![TAT](https://github.com/SivaChandranR07/Ex-1-NN/assets/113497395/2582cd4e-aaed-4610-97ed-91c3b8676e9f)
+
+
+
+
+![307384311-2582cd4e-aaed-4610-97ed-91c3b8676e9f](https://github.com/imthiyas19/Ex-1-NN/assets/120353416/30604535-4006-4541-abc1-270ac78028aa)
+
+
+
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
